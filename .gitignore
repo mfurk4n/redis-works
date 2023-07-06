@@ -22,7 +22,7 @@ target/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
-/dist/
+/dist/* linguist-vendored=false
 /nbdist/
 /.nb-gradle/
 build/
